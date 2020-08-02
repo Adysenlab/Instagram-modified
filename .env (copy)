@@ -1,0 +1,11 @@
+PORT=9090
+SESSION_SECRET_LETTER="aadsexy"
+MYSQL_HOST="host"
+MYSQL_ROOT_PASSWORD="root"
+MYSQL_USER="user"
+MYSQL_PASSWORD="password"
+MYSQL_DATABASE="db"
+MAIL="radiiagent1@gmail.com"
+MAIL_PASSWORD="Asansol4"
+GOOGLE_GEOLOCATION_KEY='google-geolocation-key'
+ADMIN_PASSWORD='adminsystem'
